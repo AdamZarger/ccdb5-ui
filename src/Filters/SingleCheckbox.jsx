@@ -18,7 +18,7 @@ export default class SingleCheckbox extends React.Component {
                                     options={this.props.options}
               />
             </ul>
-        </div> 
+        </div>
       </section>
     );
   }
